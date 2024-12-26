@@ -9,6 +9,7 @@
             <strong>Included Software:</strong>
             <ul>
                 <li><strong>Nest Panel:</strong> Real-time monitoring dashboard software for Windows PCs and tablets.</li>
+				<li><strong>RN320_Setup_Manager:</strong> RN320 Series Sensor Calibration and LoraWan Setting Program.</li>
             </ul>
         </li>
     </ul>
