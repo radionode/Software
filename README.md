@@ -10,6 +10,11 @@
             <ul>
                 <li><strong>Nest Panel:</strong> Real-time monitoring dashboard software for Windows PCs and tablets.</li>
 				<li><strong>RN320_Setup_Manager:</strong> RN320 Series Sensor Calibration and LoraWan Setting Program.</li>
+				<li><strong>UA Calibrator:</strong> Setup program for All the UA series device.</li>
+				<li><strong>UA Term Example:</strong> C based PC application that read sensor value via USB CDC.</li>
+				<li><strong>Python Example:</strong> Python example code</li>
+
+				
             </ul>
         </li>
     </ul>
