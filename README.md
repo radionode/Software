@@ -13,15 +13,10 @@
 				<li><strong>UA Calibrator:</strong> Setup program for All the UA series device.</li>
 				<li><strong>UA Term Example:</strong> C based PC application that read sensor value via USB CDC.</li>
 				<li><strong>Python Example:</strong> Python example code</li>
-
-				
-            </ul>
-        </li>
-    </ul>
-    <p>
-        For more information on how to use the software, 
-        <a href="https://help.radionode365.com/" target="_blank">
-            Click here
-        </a>
-    </p>
+    <br>
+    For more information on how to use the software, 
+    <a href="https://help.radionode365.com/" target="_blank" rel="noopener noreferrer">
+        Click here
+    </a>
 </body>
+			
